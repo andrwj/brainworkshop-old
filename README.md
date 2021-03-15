@@ -14,3 +14,6 @@ $ python2 setup.py install --user
 $ cd .. 
 $ ./brainworkshop.pyw
 ```
+
+
+![Screenshot](https://raw.github.com/andrwj/brainworkshop/master/screenshot.png)
